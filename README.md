@@ -37,7 +37,7 @@ A simple implementation of the classic Pong game built using Python's `turtle` m
 
 
 ![Gameplay Screenshot](pingpong(1).png)
-![Gameplay Screenshot](ping pong.png)
+![Gameplay Screenshot](pingpong.png)
 
 
 Enjoy playing the classic Pong game!

@@ -36,7 +36,7 @@ A simple implementation of the classic Pong game built using Python's `turtle` m
 - Two players use the keyboard to control their respective paddles and compete against each other.
 
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](pingpong(1).png)
 
 
 Enjoy playing the classic Pong game!
